@@ -16,4 +16,4 @@
 ### Author
 
 - Made by - [https://github.com/Vikas4524/Frontend-mentor]
-- Frontend Mentor - [Vikas4524](https://github.com/Vikas4524/Frontend-mentor)
+- Frontend Mentor - [Vikas4524](https://www.frontendmentor.io/profile/Vikas4524)
