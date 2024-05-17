@@ -1,0 +1,86 @@
+
+
+*{
+    background-color:rgb(12,12,12);
+    color: white;
+    
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+
+}
+
+.Box{
+    width: 24.37rem;
+    height: 40.125rem;
+    background-color:rgb(31,31,31);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:space-evenly;
+    border-radius: 1rem;
+    
+position: fixed;
+ margin: auto;
+inset: 0;     
+
+
+
+}
+
+.icon{
+    width: 6.37rem;
+    height:6.37rem;
+    border-radius:100%;
+    background-image: url(/social-links-profile/assets/images/avatar-jessica.jpeg);
+    background-size:cover;
+    position: relative;
+    top: 1rem;
+ 
+}
+
+button{
+    width: 19.75rem;
+    height: 3rem;
+    border:black;
+    background-color:rgb(51,51,51) ;
+    border-radius:0.5rem;
+    letter-spacing: 0.1rem;
+    font-weight:bolder;
+    
+}
+
+#lastbutton{
+    margin-bottom: 1rem;
+}
+
+button:hover{
+    background-color: yellow;
+    color: black;
+}
+
+
+.name,p,h2,.propesion {
+    background-color: rgb(31,31,31);
+}
+
+
+.name>h2{
+
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+.name>p{
+    margin: auto;
+    color: yellow;
+
+}
+
+.attribution{
+    position: relative;
+    top: 55rem;
+    
+}
